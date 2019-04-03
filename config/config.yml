@@ -1,0 +1,17 @@
+﻿default:
+  adapter: postgresql
+  host: localhost
+  port: 5432
+  username: postgres
+  password: Ankara88
+  database: videos
+  raw_files: P:/Diziler/Raw/
+  a_videos: W:/Files/
+  b_videos: P:/Diziler/TS/
+  c_videos: P:/Diziler/Movie/
+  popular_stars: P:/Diziler/Supergirl/
+  unpopular_stars: //fatmay/f$/i18nEditor/Backup/OldFiles/
+  unpopular_match: OldFiles
+  video_paths: ['W:/Files', 'P:/Diziler/TS/', 'P:/Diziler/Movie/', '//fatmay/f$/i18nEditor/Backup/OldFiles/', 'D:/Movie/']
+  log_name: 'C:/Users/noyana/Documents/Visual Studio 2017/Projects/Videos/videos_app.log'
+  default_extension: .mp4
