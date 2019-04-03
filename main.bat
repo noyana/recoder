@@ -1,0 +1,1 @@
+bundle.bat exec C:\Ruby26-x64\bin\ruby.exe "C:/Users/noyana/Documents/Visual Studio 2017/Projects/Videos/main.rb" -yes-rename -yes-recode -yes-add -yes-clear-videos -yes-clear-people -yes-duplicate-videos -yes-duplicate-people -no-clear-log %1
